@@ -51,6 +51,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que 
 
 ## Contato
 
-Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email: seu_email@example.com.
+Em caso de dúvidas, sugestões ou problemas, sinta-se à vontade para entrar em contato através do email: miacontapcsenai@gmail.com.
 
 
