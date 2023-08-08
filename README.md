@@ -32,6 +32,12 @@ code .
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PetLIFE&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEmyyS2%2FPetLife-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYJPIIJMJOUR3TC4OZSKMZGSFYYA)
 
+## funcionalidades
+[Cadastro Clientes](README-Clientes.md)
+[Login](README-Login.md)
+[Cadastro Pets](README-Pet.md)
+[Fornecedores](README-Fornecedores.md)
+[Funcionarios](README-Funcionarios.md)
 
 ## Licença
 ```
