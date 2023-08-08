@@ -11,6 +11,6 @@ Para cadastrar seus animais é necessário:
 
 * Raça-> Raça do seu bichinho 
 
-*Enfermidades -> Caso seu animalzinho tenha alguma doença 
+* Enfermidades -> Caso seu animalzinho tenha alguma doença 
 
  
