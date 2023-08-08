@@ -1,17 +1,6 @@
 # PetLife API com PHP e Laravel
 
-Este projeto contém uma série de exercícios práticos para trabalhar com API e retorno dos dados no formato JSON usando a linguagem PHP e o framework Laravel.
-
-## Requisitos
-
-Certifique-se de ter os seguintes requisitos atendidos antes de começar a trabalhar nos exercícios:
-
-- PHP instalado
-- Composer instalado
-- Laravel Framework instalado
-- 7-Zip instalado
-- Git instalado
-- Editor de código de sua preferência
+Este projeto contém um site feito por estudantes da escola SESI, para aprofundar seus conhecimentos nas linguagens em PHP e Json
 
 ## Como utilizar este repositório
 
@@ -23,22 +12,15 @@ Certifique-se de ter os seguintes requisitos atendidos antes de começar a traba
 ```
 cd PetLife-api
 ```
-<<<<<<< HEAD
-3. Inicializando o Repositorio
-=======
-3. Inicializando o REpositório
 
+3. Inicializando o REpositório
 ```
 composer update
 ```
 4. Copiando o .env do exemplo
 ```
-<<<<<<< HEAD
-copy .env.exemple .env
-```
 
-=======
-copy .env.exemplo .env
+copy .env.exemple .env
 ```
 
 5. Acessar o Visual Studio Code
@@ -46,9 +28,7 @@ copy .env.exemplo .env
 code .
 ```
 
-## Insomnia
-=======
-#Insomnia
+# Insomnia
 
 
 ## Licença
