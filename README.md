@@ -29,8 +29,8 @@ code .
 ```
 
 # Insomnia
-```
-[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PetLife-api&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEmyyS2%2FPetLife-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYJPJZIGH2CXKUKIT36REZGSESEA)
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=PetLIFE&uri=https%3A%2F%2Fraw.githubusercontent.com%2FEmyyS2%2FPetLife-api%2Fmain%2Finsomnia.json%3Ftoken%3DGHSAT0AAAAAACGBYJPIIJMJOUR3TC4OZSKMZGSFYYA)
 
 
 ## Licença
