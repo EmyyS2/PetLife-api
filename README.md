@@ -1,6 +1,6 @@
 # PetLife API com PHP e Laravel
 
-Este projeto contém um site feito por estudantes da escola SESI, para aprofundar seus conhecimentos nas linguagens em PHP e Json
+Este projeto contém um site feito por estudantes da escola SESI, para aprofundar seus conhecimentos nas linguagens PHP e Json
 
 ## Como utilizar este repositório
 
