@@ -8,18 +8,12 @@ Esse cadastro foi feito para cadastrar os clientes interessados em nossos servis
  
  
 
-## requisitos 
+Requisitos 
 
  
  
 
-1. E-mail: 
-
-``` 
-
-seuemail@gmail.com 
-
-``` 
+1. E-mail->seuemail@gmail.com 
 
 2. Nome 
 
@@ -27,28 +21,13 @@ seuemail@gmail.com
 
 4. Numero da casa 
 
-5. senha 
+5. Senha ->8 digitos 
 
-``` 
-
-8 digitos 
-
-``` 
-
-6. CPF: 
-
-``` 
-
-Ex:999.999.999-99 
+6. CPF-> Ex:999.999.999-99 
 
 7. Rua 
 
-8. Numero de telefone: 
+8. Numero de telefone->Ex:(99) 99999-9999 
 
-``` 
-
-Ex:(99) 99999-9999 
-
-``` 
 
  
