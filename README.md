@@ -34,8 +34,10 @@ code .
 
 
 ## Licença
+```
 
 Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode utilizá-lo livremente para fins educacionais, comerciais ou pessoais.
+```
 
 ## Contato
 
