@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('raca', 20)->nullable(false);
             $table->string('requerimentos')->nullable(false);
             $table->string('enfermidades')->nullable(false);
+            $table->timestamps();
         });
     }
 
