@@ -18,6 +18,6 @@ Para o cadastro de fornecedores é necessário:
 
 * Numero de contato->Telefone para entrar em contato
 
-* Endereço -> local do fornecedor 
+
 
  
