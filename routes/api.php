@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ClientesController;
+use App\Http\Controllers\FornecedorController;
 use App\Http\Controllers\PetController;
 use App\Models\Clientes;
 use Illuminate\Http\Request;
