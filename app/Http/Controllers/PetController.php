@@ -20,7 +20,7 @@ class PetController extends Controller
 
  return response()->json([
             "sucess"=>true,
-            "message"=> "Seu Pet Cadastrado com sucesso",
+            "message"=> "Seu Pet foi Cadastrado com sucesso",
         "data"=> $Pet
         ]);
     }
