@@ -16,7 +16,7 @@ return new class extends Migration
             $table->string('nome', 30)->nullable(false);
             $table->string('idade',2)->nullable(false);
             $table->string('raca', 20)->nullable(false);
-            $table->string('requerimento')->nullable(false);
+            $table->string('requerimentos')->nullable(false);
             $table->string('enfermidades')->nullable(false);
         });
     }
