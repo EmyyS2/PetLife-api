@@ -6,3 +6,5 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 Route::post('cadastro/cliente', [ClientesController::class, 'cliente']);
+
+Route::post('cadastro/pets', [ClientesController::class, 'pet']);
