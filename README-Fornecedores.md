@@ -10,10 +10,14 @@ Para o cadastro de fornecedores é necessário:
 
 * Senha -> Senha do fornecedor 
 
-* Nome -> Nome do fornecedor 
+* Nome da empresa -> Nome da empresa do fornecedor 
 
-* CPF -> CPF do fornecedor 
+* Tipo de produto-> Tipo de produtos oferecidos pelo fornecedor 
 
-* Ocupação -> Ocupação do fornecedor 
+* CNPJ -> CNPJ do fornecedor 
+
+* Numero de contato->Telefone para entrar em contato
+
+* Endereço -> local do fornecedor 
 
  
