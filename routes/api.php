@@ -12,3 +12,5 @@ Route::post('cadastro/cliente', [ClientesController::class, 'cliente']);
 Route::post('cadastro/pets', [PetController::class, 'pet']);
 
 Route::post('cadastro/fornecedor', [FornecedorController::class, 'fornecedor']);
+
+Route::get('/find/{id}',[ClientesController::class, 'pesquisarPorId']);
