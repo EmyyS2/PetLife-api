@@ -28,7 +28,7 @@ class ClientesRequest extends FormRequest
             'nome' => 'required|max:80|min:5',
             'cpf' => 'required|max:11|min:11|unique:clientes,cpf',
             'telefone' => 'required|max:15|min:10',
-            'email' => 'required|email|unique:cliente,email',
+            'email' => 'required|email|unique:clientes,email',
             'password' => 'required',
             'bairro' => 'required|max:80|min:5',
             'rua' => 'required|max:30|min:10',
